@@ -13,9 +13,9 @@ import (
 
 const (
 	// airTableKeyVariable  = "AIRTABLE_KEY"
-	airTableKeyVariable = "keyUwVHMKd8yL1wXe"
+	airTableKeyVariable = ""
 	// airTableAppVariable  = "AIRTABLE_APP"
-	airTableAppVariable = "appTf4M7lKS4YMARz"
+	airTableAppVariable = ""
 	// airTableHostVariable = "AIRTABLE_HOST"
 	airTableHostVariable = "https://api.airtable.com/v0/"
 	defaultAirTableUrl   = "https://api.airtable.com/v0/%s/names?api_key=%s"
